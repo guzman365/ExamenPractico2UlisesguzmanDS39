@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenPractico2UlisesguzmanDS39</string>
+    <string name="registro_de_empleados">Registro de empleados</string>
+    <string name="guardar">Guardar</string>
+    <string name="telefono">Telefono</string>
+    <string name="nombre">Nombre</string>
+    <string name="dui">DUI</string>
+    <string name="departamento">Departamento</string>
+    <string name="consultar">Consultar</string>
+</resources>
